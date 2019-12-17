@@ -34,3 +34,6 @@ class String
 end
 
 # TEST
+phrase = "This is a sentence."
+
+puts phrase.sentence?
