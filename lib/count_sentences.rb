@@ -34,4 +34,3 @@ class String
 end
 
 # TEST
-
